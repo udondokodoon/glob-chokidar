@@ -1,0 +1,33 @@
+{
+  "name": "glob-chokidar",
+  "version": "0.0.1",
+  "description": "Glob based Chokidar",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "^0.8.2",
+    "globule": "^0.2.0",
+    "node.extend": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vinnovera/glob-chokidar.git"
+  },
+  "keywords": [
+    "fil",
+    "watch",
+    "glob",
+    "chokidar",
+    "gulp",
+    "grunt"
+  ],
+  "author": "Jakob Öhman <jakob@vinnovera.se> (http://vinnovera.se/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinnovera/glob-chokidar/issues"
+  },
+  "homepage": "https://github.com/Vinnovera/glob-chokidar"
+}
